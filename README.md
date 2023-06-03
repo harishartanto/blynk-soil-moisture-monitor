@@ -25,7 +25,7 @@ Before using this project, make sure you have met the following prerequisites:
 - Installed the I2C library in the Arduino IDE.
 
 ## Usage Instructions
-For detailed usage instructions, please refer to the [Complete Project Documentation](Project Report.pdf).
+For detailed usage instructions, please refer to the [Complete Project Documentation](./Project%20Report.pdf).
 
 Here are the general steps to run the project:
 1. Connect NodeMCU, Soil Moisture Sensor, and LCD according to the following wiring scheme:
@@ -59,7 +59,7 @@ Here are the general steps to run the project:
 
 11. The NodeMCU will connect to the WiFi network, and the soil moisture data will be displayed on the LCD and Blynk.
 
-Please refer to the [Complete Project Documentation](Project Report.pdf) for more information on usage and project configuration.
+Please refer to the [Complete Project Documentation](./Project%20Report.pdf) for more information on usage and project configuration.
 
 ## License
 
