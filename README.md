@@ -12,10 +12,10 @@ This project implements soil moisture monitoring using the YL-69 soil moisture s
   - NodeMCU ESP8266 LoLin
   - YL-69 Soil Moisture Sensor
   - Hitachi HD44780 LCD 16x2 controller with I2C Module
-  - 9 Female-to-Female Jumper Wires
-  - Micro USB Cable
-  - Power Bank
-  - Android Smartphone
+  - 9 female-to-female jumper wires
+  - Micro USB cable
+  - Power bank
+  - Android smartphone
 
 ## Prerequisites
 Before using this project, make sure you have met the following prerequisites:
@@ -45,7 +45,7 @@ Here are the general steps to run the project:
 
 4. Adjust the WiFi Hotspot settings in the `config.ino` file.
 
-5. Open the `Soil_Monitoring_Sensor_BLYNK.ino` file using the Arduino IDE.
+5. Open the `soil_monitoring_sensor_blynk.ino` file using the Arduino IDE.
 
 6. Verify/compile and upload the sketch to the NodeMCU ESP8266 LoLin.
 
