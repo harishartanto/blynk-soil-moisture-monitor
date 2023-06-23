@@ -25,8 +25,6 @@ Before using this project, make sure you have met the following prerequisites:
 - Installed the I2C library in the Arduino IDE.
 
 ## Usage Instructions
-For detailed usage instructions, please refer to the [Complete Project Documentation](./Project%20Report.pdf).
-
 Here are the general steps to run the project:
 1. Connect NodeMCU, Soil Moisture Sensor, and LCD according to the following wiring scheme:
    - NodeMCU <-> Soil Moisture Sensor
