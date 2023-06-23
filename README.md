@@ -2,7 +2,7 @@
 
 This project implements soil moisture monitoring using the YL-69 soil moisture sensor and the Blynk platform. It utilizes the NodeMCU ESP8266 LoLin as the microcontroller and displays soil moisture data on Blynk and a 16x2 LCD screen using the I2C module.
 
-![Hardware Circuit Diagram](media/scheme.png)
+![Hardware Circuit Diagram](media/scheme.png?)
 
 ## Tools and Materials
 - Software:
