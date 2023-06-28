@@ -61,4 +61,4 @@ Please refer to the [Complete Project Documentation](./Project%20Report.pdf) for
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for complete license information.
+This project is licensed under the [MIT License](LICENSE). Please read the [LICENSE](LICENSE) file for more details.
